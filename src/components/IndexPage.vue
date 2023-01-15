@@ -11,7 +11,7 @@
                 <v-text-field v-model.lazy="ipAddress" color="white" outlined label="write ip address"></v-text-field>
               </v-col>
               <v-btn class="mt-5" depressed color="grey darken-1" @click="HandleUserIP" elevation="15">
-                SUBMIT
+                Submit
               </v-btn>
             </v-row>
           </v-card-text>
